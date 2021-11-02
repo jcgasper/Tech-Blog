@@ -9,5 +9,25 @@
     "mysql2": "^2.3.2",
     "path": "^0.12.7",
     "sequelize": "^6.8.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seeds/seed.js"
+    
+  },
+  "name": "tech-blog",
+  "description": "Tech Blog deployed to Heroku, can view, post, and comment on posts",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcgasper/Tech-Blog.git"
+  },
+  "author": "Jacob Gasper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcgasper/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/jcgasper/Tech-Blog#readme"
 }
