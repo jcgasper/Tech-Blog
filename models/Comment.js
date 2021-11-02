@@ -17,7 +17,7 @@ Comment.init({
     comment_text: {
         type: DataTypes.STRING,
         validate: {
-
+            //checks length of comment
             len: [3]
         }
     },

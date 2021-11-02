@@ -1,24 +1,24 @@
 const { Post } = require('../models');
 
 const postData = [{
-  title: "Fear of Job Insecurity",
-  content: "I am afraid to leave my current job in pursuit of an internship.",
+  title: "How to land that first job?",
+  content: "Coding Bootcamp graduate hear, interested in hearing how you found your first job in the field?",
   user_id: 1
 
 },
 {
-  title: "So much to learn!",
-  content: "Are we guinea pigs on a wheel? I think not! Why is it then that we are expected to learn so many new concepts in so little time?",
+  title: "ABC, Always Be Coding!",
+  content: "Never forget, that with the more you practice, the more you will learn!",
   user_id: 2
 },
 {
-  title: "Perpetually burnt out",
-  content: "What is the point of pursuing a better life thanks to tech, when all I feel like is a cog in the machine, for years now? And I still havent landed my first job?",
+  title: "How to avoid burnout in the industry",
+  content: "Remember to focus on the big picture, and not overwhelm yourself in the day to day. Take breaks when needed to clear your mind",
   user_id: 3
 },
 {
-  title: "I miss socializing",
-  content: "I got into tech for a better life, but it takes so long just to get your first job. I just wish it got easier. I wish I could be coddled, or I wish I could be strong enough. I wish I could be loved. I wish I had balance. I wish I had a teacher on command. Oh well... Im venting. I just wish I enjoyed my situation more.",
+  title: "Do you miss the office?",
+  content: "Since we have been working from home, I have to ask if you miss the office? Most of the time I do not, except on days we got pizza.",
   user_id: 4
 }
 ];
