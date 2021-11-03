@@ -54,8 +54,8 @@
 
   Jacob Gasper
 
-  [Github Repo](https://github.com/jcgasper/E-Commerce-Backend "Github Repo")
-  INSERT SCREENSHOT + HEROKU LINK
+  [Github Repo](https://github.com/jcgasper/Tech-Blog "Github Repo")
+  
   
 
-  [Video Walkthrough GET](https://drive.google.com/drive/u/0/folders/1P7ZLz75soa2yWlqPlVFQ1BlfmvxGp6Mm "Video walkthrough 1 GET");
+  [Deployed Heroku Application](https://shielded-cliffs-76642.herokuapp.com/ "Heroku app");

@@ -2,7 +2,7 @@ const { Post } = require('../models');
 
 const postData = [{
   title: "How to land that first job?",
-  content: "Coding Bootcamp graduate hear, interested in hearing how you found your first job in the field?",
+  content: "Coding Bootcamp graduate here, interested in hearing how you found your first job in the field?",
   user_id: 1
 
 },
